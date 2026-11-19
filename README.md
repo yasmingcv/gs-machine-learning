@@ -21,6 +21,3 @@ O relatório está em `../RELATORIO_ML.md`.
 pip install -r requirements.txt
 jupyter notebook GS_ML_CitizenTech.ipynb
 ```
-
-Abra o notebook a partir da pasta `ml/` (ele lê `dados/inmet_A701_sao_paulo_diario.csv` pelo caminho relativo) e use *Run All*. As sementes são fixas, então os números se repetem.
-# gs-machine-learning
