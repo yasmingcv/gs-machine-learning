@@ -2,6 +2,15 @@
 
 Previsão de **chuva forte (20 mm ou mais) no dia seguinte** em São Paulo, com dados reais do INMET (estação A701).
 
+Integrantes:
+
+```
+Ana Clara Melo - RM 559021
+David Murillo de Oliveira - RM 559078
+Lucas Serrano - RM 555170
+Yasmin Gonçalves - RM 559147
+```
+
 ## Conteúdo
 
 | Arquivo / pasta | O que é |
