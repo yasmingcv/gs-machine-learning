@@ -1,0 +1,350 @@
+{
+  "divisao": {
+    "dias_treino": 5627,
+    "dias_teste": 1137,
+    "fortes_treino": 410,
+    "fortes_teste": 88,
+    "prev_treino": 0.07286298205082638,
+    "prev_teste": 0.0773966578715919
+  },
+  "grid": [
+    {
+      "n_arvores": "300",
+      "prof_max": "sem limite",
+      "min_folha": "20",
+      "PR-AUC treino": "0.6526",
+      "PR-AUC validação": "0.1853",
+      "diferença": "0.4672"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "sem limite",
+      "min_folha": "20",
+      "PR-AUC treino": "0.6449",
+      "PR-AUC validação": "0.1829",
+      "diferença": "0.4621"
+    },
+    {
+      "n_arvores": "300",
+      "prof_max": "6",
+      "min_folha": "20",
+      "PR-AUC treino": "0.4593",
+      "PR-AUC validação": "0.1818",
+      "diferença": "0.2775"
+    },
+    {
+      "n_arvores": "300",
+      "prof_max": "3",
+      "min_folha": "20",
+      "PR-AUC treino": "0.2822",
+      "PR-AUC validação": "0.1801",
+      "diferença": "0.1021"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "3",
+      "min_folha": "20",
+      "PR-AUC treino": "0.2789",
+      "PR-AUC validação": "0.1795",
+      "diferença": "0.0994"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "6",
+      "min_folha": "20",
+      "PR-AUC treino": "0.4516",
+      "PR-AUC validação": "0.1793",
+      "diferença": "0.2723"
+    },
+    {
+      "n_arvores": "300",
+      "prof_max": "3",
+      "min_folha": "1",
+      "PR-AUC treino": "0.286",
+      "PR-AUC validação": "0.1768",
+      "diferença": "0.1092"
+    },
+    {
+      "n_arvores": "300",
+      "prof_max": "3",
+      "min_folha": "5",
+      "PR-AUC treino": "0.2827",
+      "PR-AUC validação": "0.1761",
+      "diferença": "0.1066"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "6",
+      "min_folha": "5",
+      "PR-AUC treino": "0.5125",
+      "PR-AUC validação": "0.1739",
+      "diferença": "0.3387"
+    },
+    {
+      "n_arvores": "300",
+      "prof_max": "sem limite",
+      "min_folha": "5",
+      "PR-AUC treino": "0.9989",
+      "PR-AUC validação": "0.1737",
+      "diferença": "0.8252"
+    },
+    {
+      "n_arvores": "300",
+      "prof_max": "6",
+      "min_folha": "5",
+      "PR-AUC treino": "0.5195",
+      "PR-AUC validação": "0.1729",
+      "diferença": "0.3466"
+    },
+    {
+      "n_arvores": "300",
+      "prof_max": "6",
+      "min_folha": "1",
+      "PR-AUC treino": "0.5342",
+      "PR-AUC validação": "0.1708",
+      "diferença": "0.3634"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "3",
+      "min_folha": "1",
+      "PR-AUC treino": "0.284",
+      "PR-AUC validação": "0.1706",
+      "diferença": "0.1134"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "3",
+      "min_folha": "5",
+      "PR-AUC treino": "0.2859",
+      "PR-AUC validação": "0.1703",
+      "diferença": "0.1156"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "6",
+      "min_folha": "1",
+      "PR-AUC treino": "0.5267",
+      "PR-AUC validação": "0.169",
+      "diferença": "0.3577"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "sem limite",
+      "min_folha": "5",
+      "PR-AUC treino": "0.9972",
+      "PR-AUC validação": "0.1679",
+      "diferença": "0.8293"
+    },
+    {
+      "n_arvores": "300",
+      "prof_max": "sem limite",
+      "min_folha": "1",
+      "PR-AUC treino": "1.0",
+      "PR-AUC validação": "0.1674",
+      "diferença": "0.8326"
+    },
+    {
+      "n_arvores": "100",
+      "prof_max": "sem limite",
+      "min_folha": "1",
+      "PR-AUC treino": "1.0",
+      "PR-AUC validação": "0.1656",
+      "diferença": "0.8344"
+    }
+  ],
+  "modelo_05": {
+    "treino": {
+      "recall": 0.8780487804878049,
+      "precisao": 0.3441682600382409,
+      "f1": 0.4945054945054945,
+      "pr_auc": 0.7131761613755321,
+      "roc_auc": 0.9547071721436017,
+      "VP": 360,
+      "FP": 686,
+      "FN": 50,
+      "VN": 4531
+    },
+    "teste": {
+      "recall": 0.5227272727272727,
+      "precisao": 0.1908713692946058,
+      "f1": 0.2796352583586626,
+      "pr_auc": 0.25417372529903426,
+      "roc_auc": 0.7729005979720946,
+      "VP": 46,
+      "FP": 195,
+      "FN": 42,
+      "VN": 854
+    }
+  },
+  "melhor_params": {
+    "max_depth": null,
+    "min_samples_leaf": 20,
+    "n_estimators": 300
+  },
+  "cv_pr_auc": 0.1853314384649923,
+  "base_sempre_nao": {
+    "recall": 0.0,
+    "precisao": 0.0,
+    "f1": 0.0,
+    "pr_auc": 0.0773966578715919,
+    "roc_auc": 0.5,
+    "VP": 0,
+    "FP": 0,
+    "FN": 88,
+    "VN": 1049
+  },
+  "base_persistencia": {
+    "recall": 0.22727272727272727,
+    "precisao": 0.22727272727272727,
+    "f1": 0.22727272727272727,
+    "pr_auc": 0.1780716754472617,
+    "roc_auc": 0.7003910650836295,
+    "VP": 20,
+    "FP": 68,
+    "FN": 68,
+    "VN": 981
+  },
+  "limiar_escolhido": 0.3699999999999999,
+  "limiares_teste": {
+    "0,50 (padrão)": {
+      "recall": 0.5227272727272727,
+      "precisao": 0.1908713692946058,
+      "f1": 0.2796352583586626,
+      "alertas": 241,
+      "acertos": 46,
+      "alarmes falsos": 195,
+      "chuvas perdidas": 42
+    },
+    "0,30": {
+      "recall": 0.8068181818181818,
+      "precisao": 0.1375968992248062,
+      "f1": 0.23509933774834438,
+      "alertas": 516,
+      "acertos": 71,
+      "alarmes falsos": 445,
+      "chuvas perdidas": 17
+    },
+    "0.37 (escolhido)": {
+      "recall": 0.7386363636363636,
+      "precisao": 0.15550239234449761,
+      "f1": 0.25691699604743085,
+      "alertas": 418,
+      "acertos": 65,
+      "alarmes falsos": 353,
+      "chuvas perdidas": 23
+    }
+  },
+  "importancia_top10": [
+    {
+      "variavel": "ponto_orvalho",
+      "queda_pr_auc": 0.0578,
+      "desvio": 0.0299
+    },
+    {
+      "variavel": "pressao",
+      "queda_pr_auc": 0.0345,
+      "desvio": 0.0208
+    },
+    {
+      "variavel": "chuva_hoje",
+      "queda_pr_auc": 0.0325,
+      "desvio": 0.0162
+    },
+    {
+      "variavel": "dif_pressao_1d",
+      "queda_pr_auc": 0.0242,
+      "desvio": 0.0135
+    },
+    {
+      "variavel": "vento_medio",
+      "queda_pr_auc": 0.0176,
+      "desvio": 0.0045
+    },
+    {
+      "variavel": "umidade_media",
+      "queda_pr_auc": 0.0175,
+      "desvio": 0.0101
+    },
+    {
+      "variavel": "temp_media",
+      "queda_pr_auc": 0.0156,
+      "desvio": 0.0178
+    },
+    {
+      "variavel": "chuva_3d",
+      "queda_pr_auc": 0.0136,
+      "desvio": 0.0157
+    },
+    {
+      "variavel": "mes_cos",
+      "queda_pr_auc": 0.01,
+      "desvio": 0.0148
+    },
+    {
+      "variavel": "radiacao",
+      "queda_pr_auc": 0.0092,
+      "desvio": 0.0079
+    }
+  ],
+  "cidadao": {
+    "anos_teste": 3.16,
+    "alertas": 418,
+    "acertos": 65,
+    "alarmes_falsos": 353,
+    "chuvas_perdidas": 23,
+    "chuvas_fortes": 88,
+    "alertas_por_mes": 11.0,
+    "alarmes_falsos_por_mes": 9.3
+  },
+  "faixas": [
+    {
+      "prob": "até 20%",
+      "dias": "475",
+      "choveu_forte": "9",
+      "% que choveu forte": "1.9"
+    },
+    {
+      "prob": "20 a 40%",
+      "dias": "287",
+      "choveu_forte": "20",
+      "% que choveu forte": "7.0"
+    },
+    {
+      "prob": "40 a 60%",
+      "dias": "270",
+      "choveu_forte": "29",
+      "% que choveu forte": "10.7"
+    },
+    {
+      "prob": "mais de 60%",
+      "dias": "105",
+      "choveu_forte": "30",
+      "% que choveu forte": "28.6"
+    }
+  ],
+  "modelo_raso": {
+    "treino": {
+      "recall": 0.7951219512195122,
+      "precisao": 0.16202783300198806,
+      "f1": 0.26919900908340216,
+      "pr_auc": 0.21518845106160153,
+      "roc_auc": 0.803984160600663,
+      "VP": 326,
+      "FP": 1686,
+      "FN": 84,
+      "VN": 3531
+    },
+    "teste": {
+      "recall": 0.7840909090909091,
+      "precisao": 0.14967462039045554,
+      "f1": 0.25136612021857924,
+      "pr_auc": 0.21334143166996752,
+      "roc_auc": 0.7762912730739233,
+      "VP": 69,
+      "FP": 392,
+      "FN": 19,
+      "VN": 657
+    }
+  }
+}
